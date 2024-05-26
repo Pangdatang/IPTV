@@ -51,6 +51,10 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="卫视频道",无线新闻台
+https://yang-1989.eu.org/tvb/wxxw
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="卫视频道",翡翠台
+https://yang-1989.eu.org/tvb/fct
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="卫视频道",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="卫视频道",TVBPlus
