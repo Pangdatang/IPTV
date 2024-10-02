@@ -36,7 +36,7 @@ http://10.18.18.1:5060/itv/bestzb/5000000008000023254
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://10.18.18.1:5060/ysp/cctv17
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://223.10.11.187:8082/udp/239.1.1.95:8095
+http://120.6.7.108:4022/rtp/239.253.93.252:6430
 #EXTINF:-1 tvg-name="南宁新闻" tvg-logo="" group-title="广西频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="" group-title="广西频道",南宁公共
