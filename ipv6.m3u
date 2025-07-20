@@ -213,7 +213,3 @@ http://192.168.8.2:35455/bst/cpdhdavs8m@8000000.m3u8
 http://192.168.8.2:35455/bst/klcdhd4m@4000000.m3u8
 #EXTINF:-1,tvg-id="东方财经HD" tvg-name="东方财经HD" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="BST-其他",东方财经HD-BST
 http://192.168.8.2:35455/bst/dfcjhd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://11.112114.xyz/logo/家庭理财.png" group-title="BST-其他",家庭理财-BST
-http://192.168.8.2:35455/bst/jtlcsd2d5mc@2500000.m3u8
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://11.112114.xyz/logo/财富天下.png" group-title="BST-其他",财富天下-BST
-http://192.168.8.2:35455/bst/cftx@2500000.m3u8
