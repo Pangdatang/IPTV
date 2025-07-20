@@ -33,6 +33,8 @@ http://192.168.8.2:35455/mgtv/624878440.m3u8
 http://192.168.8.2:35455/mgtv/673168223.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.8.2:35455/mgtv/673168256.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+http://116.230.254.173:8004/nptv/hjjc.m3u8
 #EXTINF:-1, CCTV4欧洲
 http://192.168.8.2:35455/mgtv/608807419.m3u8
 #EXTINF:-1, CCTV4美洲
@@ -49,8 +51,6 @@ http://192.168.8.2:35455/nptv/cctv16.m3u8
 http://192.168.8.2:35455/nptv/cctv4k.m3u8
 #EXTINF:-1,cctv8k
 http://192.168.8.2:35455/nptv/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://192.168.8.2:35455/nptv/hjjc.m3u8
 #EXTINF:-1,第一剧场
 http://192.168.8.2:35455/nptv/dyjc.m3u8
 #EXTINF:-1,风云剧场
