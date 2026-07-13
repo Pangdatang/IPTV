@@ -119,8 +119,13 @@ http://168x.168ro.top:34567/zb/token3.php?token=7be45ce61308a78b9f1b6956d6f06f
 http://168x.168ro.top:34567/zb/token3.php?token=c74a88de4827b24d9a1c81275a0e5d
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://168x.168ro.top:34567/zb/token3.php?token=3e4493530317f1da8b48a8c0feec10
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
+翡翠台,https://cdn.qd.je/163189.php?id=fct
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻
-https://cdn.qd.je/163189.php?id=wxty
+https://cdn.qd.je/163189.php?id=wxxw
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
+TVB星河,https://cdn.qd.je/163189.php?id=xinghe
+
 #EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",HOY TV
 HOY TV,https://cdn.qd.je/163189.php?id=hoy
 #EXTINF:-1,tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="港澳台",HOY资讯台
@@ -143,7 +148,7 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 TVB1,https://cdn.qd.je/163189.php?id=tvb1
 TVBj1,https://cdn.qd.je/163189.php?id=j1
 翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
-翡翠台,https://cdn.qd.je/163189.php?id=fct
+
 
 广东珠江,https://cdn.qd.je/163189.php?id=gdzj
 广东体育,https://cdn.qd.je/163189.php?id=gdty
@@ -160,7 +165,7 @@ CHU,https://cdn.qd.je/163189.php?id=chu
 龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
 金光布袋戏,https://cdn.qd.je/163189.php?id=jgbdx
 亚洲武侠,https://cdn.qd.je/163189.php?id=yzwx
-TVB星河,https://cdn.qd.je/163189.php?id=xinghe
+
 天映频道(新加坡),https://cdn.qd.je/163189.php?id=typd
 天映经典,https://cdn.qd.je/163189.php?id=ccm
 海峡卫视,https://cdn.qd.je/163189.php?id=hxws
